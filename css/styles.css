@@ -456,10 +456,11 @@ gap: 40px;
     flex-direction: column;
     justify-content: flex-start;
     margin-bottom: 16px;
-  }
+}
 
-.social-link-item {
-    gap: 16px;
+.social-link {
+    display: flex;
+    gap: 16px; 
 }
 
 .social-link-list-foot {
